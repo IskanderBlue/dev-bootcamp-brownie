@@ -1,3 +1,5 @@
+### Note, edited for last exercise in chainlink smartcontract bootcamp
+
 # chainlink-mix
 
 > NOTE: This has been recently updated for better compatibility with local blockchains. Check out the scripts to learn more.
